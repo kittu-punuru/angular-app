@@ -1,9 +1,9 @@
 # Title
-This project is intended to Landing Page for Cloud Stones.
+This project is intended to build angular app
 
 # clone repo
 ```
-git clone https://github.com/cloudstonesorg/csp-ui && cd csp-ui
+git clone https://github.com/kittu-punuru/angular-app.git && cd angular-app
 ```
 # Install node packages
 ```
@@ -17,8 +17,3 @@ ng serve
 ```
 # Testing
 http://localhost:4200/
-
-
-
-# Reference
-https://github.com/tekichan/belle-bible
